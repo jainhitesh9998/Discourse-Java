@@ -39,7 +39,7 @@
     "firebase": "^8.6.5",
     "generator-jhipster-cookie-consent": "0.0.2",
     "import-scripts": "^1.0.0",
-    "moment": "2.27.0",
+    "moment": "2.29.2",
     "ng-click-outside": "^8.0.0",
     "ng-jhipster": "0.15.0",
     "ng5-slider": "^1.2.6",
