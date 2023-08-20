@@ -36,7 +36,7 @@
     "classlist.js": "^1.1.20150312",
     "cookieconsent": "^3.1.1",
     "core-js": "^2.6.12",
-    "firebase": "^8.6.5",
+    "firebase": "^10.2.0",
     "generator-jhipster-cookie-consent": "0.0.2",
     "import-scripts": "^1.0.0",
     "moment": "2.27.0",
